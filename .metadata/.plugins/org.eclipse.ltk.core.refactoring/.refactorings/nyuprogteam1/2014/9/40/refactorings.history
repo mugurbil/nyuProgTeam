@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;nyuprogteam2/src/nyuprogteam2&apos;&#x0A;- Original project: &apos;nyuprogteam&apos;&#x0A;- Destination element: &apos;nyuprogteam2/src/nyuprogteam2&apos;&#x0A;- Original elements:&#x0A;     Main2A.java&#x0A;     Main2C.java&#x0A;     Main2B.java&#x0A;     Main2D.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=nyuprogteam2/src&lt;nyuprogteam2" element1="/src&lt;{Main2A.java" element2="/src&lt;{Main2C.java" element3="/src&lt;{Main2B.java" element4="/src&lt;{Main2D.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1412038174788" units="4" version="1.0"/>
+</session>
